@@ -1,5 +1,19 @@
-# 🎮 Unity 專題遊戲｜Steam 成就整合
-▶️ [立即試玩](https://store.steampowered.com/app/1665780/Coalhero/)｜💻 [查看程式碼](https://github.com/InagakiRomi/Coalhero/tree/main/%E9%BB%91%E9%87%91%E5%8B%87%E8%80%85/Assets/Scripts)
+# 🎮黑金勇者 - 2D 動作冒險遊戲專題（Steam 上架）
 
-大學遊戲專題，使用 Unity（C#）開發，程式邏輯由本人獨立撰寫。  
-後續整合 Steamworks SDK，實作成就系統與遊戲內觸發機制。
+## 🎮 專案簡介
+本遊戲為一款以像素風格呈現的 2D 動作冒險遊戲，是大學時的畢業專題，並成功上架至 Steam。玩家需在敵人與機關分布的場景中完成各種挑戰。
+
+## 👨‍💻 我的職責與技術重點
+我擔任本專案的主要程式開發者，負責核心系統與各項功能的設計與實作：
+
+- 遊戲主邏輯、關卡系統、事件觸發、玩家控制、戰鬥機制等核心功能開發
+- 串接 Steam SDK，實作成就系統
+- 撰寫所有主要的程式碼，並負責Bug 修正
+- 使用 Unity 引擎與 C# 開發，熟悉物件導向設計
+
+## 🚀 技術挑戰與學習
+本專案讓我熟悉：
+- 產品的開發與上架流程
+- SDK串接與第三方服務整合
+
+▶️ [立即試玩](https://store.steampowered.com/app/1665780/Coalhero/)｜💻 [查看程式碼](https://github.com/InagakiRomi/Coalhero/tree/main/%E9%BB%91%E9%87%91%E5%8B%87%E8%80%85/Assets/Scripts)
